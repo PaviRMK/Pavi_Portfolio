@@ -38,27 +38,27 @@ const otherPlatforms = [
 const certificates = [
   {
     title: "Java Developer Certification",
-    image: "/public/certificates/c1.jpg",
+    image: "/certificates/c1.jpg",
   },
   {
     title: "HackerRank Java(Basic)",
-    image: "/public/certificates/c2.jpg",
+    image: "/certificates/c2.jpg",
   },
   {
     title: "Oracle-Data Science Professional",
-    image: "/public/certificates/c3.jpg",
+    image: "/certificates/c3.jpg",
   },
   {
     title: "TCS ION - Young Professional",
-    image: "/public/certificates/c4.jpg",
+    image: "/certificates/c4.jpg",
   },
   {
     title: "Gen AI Exchange Hackathon",
-    image: "/public/certificates/c5.jpg",
+    image: "/certificates/c5.jpg",
   },
   {
     title: "Internshala - Web Development",
-    image: "/public/certificates/c6.jpg",
+    image: "/certificates/c6.jpg",
   },
 ];
 
