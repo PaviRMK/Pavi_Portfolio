@@ -5,6 +5,7 @@ import PageTransition from "@/components/PageTransition";
 import SectionTitle from "@/components/SectionTitle";
 import ParticleBackground from "@/components/ParticleBackground";
 
+
 const projects = [
   {
     title: "Crypto Portfolio Tracker with Risk & Scam Analysis",
